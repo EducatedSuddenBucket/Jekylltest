@@ -1,0 +1,5 @@
+title: My Jekyll Site
+description: A simple test site.
+author: test
+baseurl: "/Jekylltest" # This matches the --baseurl parameter
+theme: minima
