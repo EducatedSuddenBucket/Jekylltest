@@ -3,6 +3,7 @@ description: A simple test site.
 author: test
 baseurl: "/Jekylltest" # This matches the --baseurl parameter
 theme: minima
+  skin: dark
 markdown: kramdown
 kramdown:
   input: GFM
